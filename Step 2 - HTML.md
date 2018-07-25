@@ -3,8 +3,7 @@
 Before we dive into coding away our first website we must first understand what HTML is.
 
 **From [W3Schools](https://www.w3schools.com/html/html_intro.asp)**
-- *HTML is the standard markup language for creating Web pages.*
-- *HTML stands for Hyper Text Markup Language*
+- *HTML is the standard markup language for creating Web pages.*- *HTML stands for Hyper Text Markup Language*
 - *HTML describes the structure of Web pages using markup*
 - *HTML elements are the building blocks of HTML pages*
 - *HTML elements are represented by tags*
@@ -25,7 +24,7 @@ What you should do now is copy and paste the next lines of code into your Atom w
 w<title></title>
 </head>
 <body>
-
+(
 
 </body>
 </html>
@@ -76,5 +75,5 @@ As you can probably tell, what ever text that goes in between these tags will be
 
 This is what your website should look like right now:
 ![Initial Website Look](https://github.com/theonegk/Final-Project/blob/master/initial-webpage.PNG)
-[Click here for the next step]
+[Click here for the next step](https://github.com/theonegk/Final-Project/blob/master/Step%203%20-%20CSS.md)
 
