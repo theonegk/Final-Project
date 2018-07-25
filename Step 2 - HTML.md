@@ -13,8 +13,7 @@ Before we dive into coding away our first website we must first understand what 
 
 Now that we have a basic understanding of what HTML is, let's dive into the coding aspect of it.
 
- Open up Atom and click **File -> New File**
-![Atom New File](https://github.com/theonegk/Final-Project/blob/master/new-file-atom.png)
+ Open up Atom and click **File -> New File**![Atom New File](https://github.com/theonegk/Final-Project/blob/master/new-file-atom.png)
  
 Afterwords, click **File -> Save As**
 Let's save the file as "First-Webpage.html"
@@ -24,7 +23,7 @@ What you should do now is copy and paste the next lines of code into your Atom w
 <!DOCTYPE html>
  <html>
 <head>
-<title></title>
+*<title></title>
 </head>
 <body>
 
@@ -51,11 +50,11 @@ So what we wanna do now is put this next block of code **INSIDE** our ```<body> 
 
 </div>
 ```
-Then click Save!
+**Then click Save!**
 
 As you can probably tell, what ever text that goes in between these tags will be the content displayed
 
-Your complete html file will look like:
+**Your complete html file will look like:**
 ```html
 <!DOCTYPE html>
 <html>
