@@ -4,8 +4,7 @@ Okay, So now that we got our website's content there let's add some CSS to it to
 
 Let's start with a background on what CSS is:
 
-**From [W3Schools](https://www.w3schools.com/html/html_css.asp)**
-*CSS stands for Cascading Style Sheets.
+**From [W3Schools](https://www.w3schools.com/html/html_css.asp)***CSS stands for Cascading Style Sheets.
 CSS describes how HTML elements are to be displayed on screen, paper, or in other media.
 CSS saves a lot of work. It can control the layout of multiple web pages all at once.
 CSS can be added to HTML elements in 3 ways:*
@@ -15,7 +14,7 @@ CSS can be added to HTML elements in 3 ways:*
 
 *The most common way to add CSS, is to keep the styles in separate CSS files. However, here we will use inline and internal styling, because this is easier to demonstrate, and easier for you to try it yourself*
 
-**Lets get back to the Atom Text editor:**
+**Lets get back to the Atom Text editor:*
 Open back up your "First-Webpage.html" file
 
 The first thing we need to do to get started with CSS is add ```<style></style>``` tags inside our ```<head></head>``` tags
@@ -35,8 +34,8 @@ h1 {
 Furthermore, if I wanted to make the h3 header slategray color I would similarly just add:
 ```html
 h3 {
-  color: slategray;
-}
+H  color: slategray;
+d}
 ```
 Our text's font looks very bland, now to change it for the entire body what we need to do is put:
 ```html
@@ -95,6 +94,8 @@ body {
 
 </style>
 ```
+**Heres what your final site should look like:**
+![final website](https://github.com/theonegk/Final-Project/blob/master/website-final.PNG)
 
 # That's it!
 Your completed file can be found [here](https://github.com/theonegk/Final-Project/blob/master/First-Webpage.html)
