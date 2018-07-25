@@ -4,7 +4,8 @@ Okay, So now that we got our website's content there let's add some CSS to it to
 
 Let's start with a background on what CSS is:
 
-**From [W3Schools](https://www.w3schools.com/html/html_css.asp)** 
+**From [W3Schools](https://www.w3schools.com/html/html_css.asp)**
+
 *CSS stands for Cascading Style Sheets.
 CSS describes how HTML elements are to be displayed on screen, paper, or in other media.
 CSS saves a lot of work. It can control the layout of multiple web pages all at once.
