@@ -13,7 +13,6 @@ CSS can be added to HTML elements in 3 ways:*
 - *Inline - by using the style attribute in HTML elements*
 - *Internal - by using a <style> element in the <head> section*
 - *External - by using an external CSS file*
-
 *The most common way to add CSS, is to keep the styles in separate CSS files. However, here we will use inline and internal styling, because this is easier to demonstrate, and easier for you to try it yourself*
 
 **Lets get back to the Atom Text editor:**
@@ -24,7 +23,7 @@ The first thing we need to do to get started with CSS is add ```<style></style>`
 
 Now that we have the style tags this will let the document know we are trying to add a design to the website. We must now know what we want to target.
 
-Let's say I want the H1 to be a deep sky blue color. I know I want to target to be the h1 header. What I do in the style tags is:
+Let's say I want the h1 to be a deep sky blue color. I know I want to target to be the h1 header. What I do in the style tags is:
 ```html
 <style>
 
@@ -37,8 +36,7 @@ h1 {
 Furthermore, if I wanted to make the h3 header slategray color I would similarly just add:
 ```html
 h3 {
-H  color: slategray;
-d}
+  color: slategray;d}
 ```
 Our text's font looks very bland, now to change it for the entire body what we need to do is put:
 ```html
@@ -52,7 +50,7 @@ This will give us a nicer looking font making our website more appealing.
 
 Lastly let's center our text to the middle of that page. For now, all you should do is copy the code beneath and paste it into your document. There is too much information to explain here that would be better covered later on down your learning.
 
-the code you will need is:
+he code you will need is:
 ```html
 div {
     height: 200px;
