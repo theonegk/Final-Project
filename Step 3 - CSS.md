@@ -38,7 +38,6 @@ h3 {
   color: slategray;
 }
 ```
-
 Our text's font looks very bland, now to change it for the entire body what we need to do is put:
 ```html
 body {
@@ -98,7 +97,7 @@ body {
 ```
 
 # That's it!
-Your completed file can be found [here]()
+Your completed file can be found [here](https://github.com/theonegk/Final-Project/blob/master/First-Webpage.html)
 
 
 
