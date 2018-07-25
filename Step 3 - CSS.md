@@ -6,8 +6,7 @@ Let's start with a background on what CSS is:
 
 **From [W3Schools](https://www.w3schools.com/html/html_css.asp)**
 
-*CSS stands for Cascading Style Sheets.
-CSS describes how HTML elements are to be displayed on screen, paper, or in other media.
+*CSS stands for Cascading Style Sheets.CSS describes how HTML elements are to be displayed on screen, paper, or in other media.
 CSS saves a lot of work. It can control the layout of multiple web pages all at once.
 CSS can be added to HTML elements in 3 ways:*
 - *Inline - by using the style attribute in HTML elements*
@@ -47,10 +46,9 @@ body {
 
 This will give us a nicer looking font making our website more appealing.
 
-
 Lastly let's center our text to the middle of that page. For now, all you should do is copy the code beneath and paste it into your document. There is too much information to explain here that would be better covered later on down your learning.
 
-he code you will need is:
+The code you will need is:
 ```html
 div {
     height: 200px;
