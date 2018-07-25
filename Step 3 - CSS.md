@@ -17,6 +17,7 @@ CSS can be added to HTML elements in 3 ways:*
 *The most common way to add CSS, is to keep the styles in separate CSS files. However, here we will use inline and internal styling, because this is easier to demonstrate, and easier for you to try it yourself*
 
 **Lets get back to the Atom Text editor:**
+
 Open back up your "First-Webpage.html" file
 
 The first thing we need to do to get started with CSS is add ```<style></style>``` tags inside our ```<head></head>``` tags
