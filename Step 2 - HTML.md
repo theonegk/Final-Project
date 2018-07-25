@@ -12,8 +12,7 @@ Before we dive into coding away our first website we must first understand what 
 - *Browsers do not display the HTML tags, but use them to render the content of the page*
 
 Now that we have a basic understanding of what HTML is, let's dive into the coding aspect of it.
-
- Open up Atom and click **File -> New File**![Atom New File](https://github.com/theonegk/Final-Project/blob/master/new-file-atom.png)
+Open up Atom and click **File -> New File**![Atom New File](https://github.com/theonegk/Final-Project/blob/master/new-file-atom.png)
  
 Afterwords, click **File -> Save As**
 Let's save the file as "First-Webpage.html"
@@ -23,7 +22,7 @@ What you should do now is copy and paste the next lines of code into your Atom w
 <!DOCTYPE html>
  <html>
 <head>
-*<title></title>
+w<title></title>
 </head>
 <body>
 
@@ -74,5 +73,8 @@ As you can probably tell, what ever text that goes in between these tags will be
 ```
 
 # That's it!
+
+This is what your website should look like right now:
+![Initial Website Look](https://github.com/theonegk/Final-Project/blob/master/initial-webpage.PNG)
 [Click here for the next step]
 
