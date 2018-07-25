@@ -7,3 +7,10 @@
 
 ### Target Audience
 The target audience for this tutorial would be anyone interested in web development or curious to start building their own website
+
+## Glossary
+
+### [Step 1 - Download Atom](https://github.com/theonegk/Final-Project/blob/master/Step%201%20-%20Download%20Atom.md)
+### [Step 2 - HTML](https://github.com/theonegk/Final-Project/blob/master/Step%202%20-%20HTML.md)
+### [Step 3 - CSS](https://github.com/theonegk/Final-Project/blob/master/Step%203%20-%20CSS.md)
+### [Final File](https://github.com/theonegk/Final-Project/blob/master/First-Webpage.html)
