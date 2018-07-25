@@ -12,7 +12,7 @@ Before we dive into coding away our first website we must first understand what 
 - *Browsers do not display the HTML tags, but use them to render the content of the page*
 
 Now that we have a basic understanding of what HTML is, let's dive into the coding aspect of it.
-`
+
 Open up Atom and click **File -> New File**
 ![Atom New File](https://github.com/theonegk/Final-Project/blob/master/new-file-atom.png)
 
