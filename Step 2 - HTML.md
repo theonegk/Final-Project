@@ -18,7 +18,6 @@ Now that we have a basic understanding of what HTML is, let's dive into the codi
  
 Afterwords, click **File -> Save As**
 Let's save the file as "First-Webpage.html"
-
 What you should do now is copy and paste the next lines of code into your Atom window:
 ```html
 
@@ -37,13 +36,13 @@ What you should do now is copy and paste the next lines of code into your Atom w
 This is known as the skeleton for HTML files. All HTML files will include this.
 
 The next step we're going to want to do is fill in the blanks with our personal information.
-We are going to put the website name in the ```html <title></title``` part of the code. Let's just put ```html <title>My First Webpage```
+We are going to put the website name in the ```<title></title``` part of the code. Let's just put ```<title>My First Webpage</title>```
 
 Okay now that we got that ready Let's add two lines of Code to our Body.
 We are going to be adding an H1 and H3 header. These are just different sizes of the headers (with 1 being the biggest)
-It is good practice to always put content in a container ```html <div>```. The ```html<div>``` tag just defines a division or a section in an HTML document.
+It is good practice to always put content in a container ```<div>```. The ```<div>``` tag just defines a division or a section in an HTML document.
   
-So what we wanna do now is put this next block of code **INSIDE** our ```html <body> </body>``` tags:
+So what we wanna do now is put this next block of code **INSIDE** our ```<body> </body>``` tags:
 ```html
 <div>
 
