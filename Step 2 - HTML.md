@@ -13,9 +13,9 @@ Before we dive into coding away our first website we must first understand what 
 
 Now that we have a basic understanding of what HTML is, let's dive into the coding aspect of it.
 
-Open up Atom and click **File -> New File**
+ Open up Atom and click **File -> New File**
 ![Atom New File](https://github.com/theonegk/Final-Project/blob/master/new-file-atom.png)
-
+ 
 Afterwords, click **File -> Save As**
 Let's save the file as "First-Webpage.html"
 
@@ -23,7 +23,7 @@ What you should do now is copy and paste the next lines of code into your Atom w
 ```html
 
 <!DOCTYPE html>
-<html>
+ <html>
 <head>
 <title></title>
 </head>
@@ -43,7 +43,7 @@ Okay now that we got that ready Let's add two lines of Code to our Body.
 We are going to be adding an H1 and H3 header. These are just different sizes of the headers (with 1 being the biggest)
 It is good practice to always put content in a container ```html <div>```. The ```html<div>``` tag just defines a division or a section in an HTML document.
   
-So what we wanna do now is put this next block of code **INSIDE** our ````html<body> </body>``` tags:
+So what we wanna do now is put this next block of code **INSIDE** our ```html <body> </body>``` tags:
 ```html
 <div>
 
