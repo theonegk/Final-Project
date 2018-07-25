@@ -10,4 +10,4 @@ Once there, you will be greeted by this webpage
 After this, you can just click the yellow download button and allow the installation to begin
 
 # That's it!
-[Click Here for the Next Step]
+[Click Here for the Next Step](https://github.com/theonegk/Final-Project/blob/master/Step%202%20-%20HTML.md)
