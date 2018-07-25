@@ -39,5 +39,67 @@ h3 {
 }
 ```
 
+Our text's font looks very bland, now to change it for the entire body what we need to do is put:
+```html
+body {
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+}
+```
+
+This will give us a nicer looking font making our website more appealing.
+
+
+Lastly let's center our text to the middle of that page. For now, all you should do is copy the code beneath and paste it into your document. There is too much information to explain here that would be better covered later on down your learning.
+
+the code you will need is:
+```html
+div {
+    height: 200px;
+    width: 400px;
+    text-align: center;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px;
+}
+```
+
+Your completed ```<style>/style>``` tags should look like:
+```html
+<style>
+
+h1 {
+  color: deepskyblue;
+}
+
+h3 {
+  color: slategrey;
+}
+
+div {
+    height: 200px;
+    width: 400px;
+    text-align: center;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px;
+}
+
+body {
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+} 
+
+</style>
+```
+
+# That's it!
+Your completed file can be found [here]()
+
+
 
 
