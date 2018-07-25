@@ -41,9 +41,9 @@ We are going to put the website name in the ```html <title></title``` part of th
 
 Okay now that we got that ready Let's add two lines of Code to our Body.
 We are going to be adding an H1 and H3 header. These are just different sizes of the headers (with 1 being the biggest)
-It is good practice to always put content in a container <div>. The <div> tag just defines a division or a section in an HTML document.
+It is good practice to always put content in a container ```html <div>```. The ```html<div>``` tag just defines a division or a section in an HTML document.
   
-So what we wanna do now is put this next block of code **INSIDE** our <body> </body> tags:
+So what we wanna do now is put this next block of code **INSIDE** our ````html<body> </body>``` tags:
 ```html
 <div>
 
